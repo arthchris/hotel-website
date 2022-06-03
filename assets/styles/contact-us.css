@@ -1,0 +1,40 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    color: #212942 !important;
+}
+
+.hero-image{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)), url('./hotel-img/bedroom.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+}
+
+
+
+.our-rooms{
+  font-size: 50px !important;
+}
+
+.horizontal{
+    width: 50px;
+    height: 2px !important;
+    margin-left: auto;
+    margin-right: auto;
+    color: #212942 !important;
+}
+
+input[type=Name], input[type=Email], input[type=tel], textarea, button[type=button]{
+    background-color: #DADADA80 !important;
+}
+
+
+.btn:hover{
+    background-color: rgb(198, 201, 201) !important;
+}
+
+
+.btn{
+  border-style: none;
+}
