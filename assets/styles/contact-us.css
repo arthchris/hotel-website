@@ -4,7 +4,7 @@ body{
 }
 
 .contact-hero-image{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.6)), url('../images/hotel-img-photo-258154.jpeg');
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.6)), url('https://images.pexels.com/photos/453201/pexels-photo-453201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
