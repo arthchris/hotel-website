@@ -3,8 +3,8 @@ body{
     color: #212942 !important;
 }
 
-.hero-image{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)), url('./hotel-img/bedroom.jpg');
+.contact-hero-image{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.6)), url('../images/hotel-img-photo-258154.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

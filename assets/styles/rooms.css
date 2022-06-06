@@ -3,7 +3,7 @@ font-family: 'Quicksand', sans-serif;
 }
 
 
-.hero-image{
+.rooms-hero-image{
     background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)), url('../images/bedroom-1743229.jpg');
     background-position: center;
     background-size: cover;
@@ -45,3 +45,6 @@ font-family: 'Quicksand', sans-serif;
 }
 
 
+#try{
+    margin: 0 ;
+}

@@ -3,8 +3,8 @@ body{
 }
 
 
-.hero-image{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)), url('./hotel-img/restaurant.jpg');
+.restaurant-hero-image{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)), url('../images/restaurant.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
