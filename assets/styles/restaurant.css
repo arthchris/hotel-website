@@ -1,0 +1,39 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.restaurant-hero-image{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.6)), url('../images/restaurant.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+}
+
+
+
+h3{
+    color: black !important;
+}
+
+.our-rooms{
+  font-size: 50px !important;
+}
+
+.horizontal{
+    width: 50px;
+    height: 2px !important;
+    margin-left: auto;
+    margin-right: auto;
+    color: #212942 !important;
+}
+
+.our-advantage{
+  background-color: #d4d5da66;
+  height: 50px;
+  padding: 15px;
+}
+
+
+
